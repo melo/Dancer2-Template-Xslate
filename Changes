@@ -1,6 +1,6 @@
 Revision history for Dancer2-Template-Xslate
 
-v0.0.5    2013-10-08 11:39:47 America/Chicago
+v0.0.5    2013-10-08 11:41:36 America/Chicago
 
 v0.0.4    2013-10-07 10:15:35 America/Chicago
     - Handled Xslate configuration options presumptively inserted by Dancer2.

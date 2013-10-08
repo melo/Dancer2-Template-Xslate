@@ -25,6 +25,7 @@ my %module_build_args = (
   "requires" => {
     "Dancer2" => "0.06",
     "Dancer2::Core::Role::Template" => 0,
+    "Dancer2::Core::Types" => 0,
     "File::Spec::Functions" => 0,
     "Moo" => 0,
     "Text::Xslate" => 0,
