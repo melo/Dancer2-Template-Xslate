@@ -3,7 +3,6 @@ abstract: 'Text::Xslate template engine for Dancer2'
 author:
   - 'Richard Simões <rsimoes AT cpan DOT org>'
 build_requires:
-  Dancer2::Core::Hook: 0
   File::Spec: 0
   IO::Handle: 0
   IPC::Open3: 0
@@ -20,8 +19,6 @@ meta-spec:
 name: Dancer2-Template-Xslate
 requires:
   Dancer2: 0.06
-  Dancer2::Core::Role::Template: 0
-  Dancer2::Core::Types: 0
   File::Spec::Functions: 0
   Moo: 0
   Text::Xslate: 0

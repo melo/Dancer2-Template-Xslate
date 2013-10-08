@@ -24,8 +24,6 @@ my %module_build_args = (
   "recursive_test_files" => 1,
   "requires" => {
     "Dancer2" => "0.06",
-    "Dancer2::Core::Role::Template" => 0,
-    "Dancer2::Core::Types" => 0,
     "File::Spec::Functions" => 0,
     "Moo" => 0,
     "Text::Xslate" => 0,
@@ -33,7 +31,6 @@ my %module_build_args = (
   },
   "script_files" => [],
   "test_requires" => {
-    "Dancer2::Core::Hook" => 0,
     "File::Spec" => 0,
     "IO::Handle" => 0,
     "IPC::Open3" => 0,
