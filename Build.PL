@@ -24,7 +24,6 @@ my %module_build_args = (
   "recursive_test_files" => 1,
   "requires" => {
     "Dancer2" => "0.06",
-    "File::Spec::Functions" => 0,
     "Moo" => 0,
     "Text::Xslate" => 0,
     "perl" => "v5.10.0"

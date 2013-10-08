@@ -19,7 +19,6 @@ meta-spec:
 name: Dancer2-Template-Xslate
 requires:
   Dancer2: 0.06
-  File::Spec::Functions: 0
   Moo: 0
   Text::Xslate: 0
   perl: v5.10.0
